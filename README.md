@@ -1,5 +1,5 @@
-⚠️ **DISCLAIMER:** Do NOT copy or submit this project as your official assignment. Doing so is an academic violation and may result in disciplinary action. This README is provided for learning and personal reference only.
-⚠️ This is for employment purposes, to be included in the projects section of my resume.
+- ⚠️ **DISCLAIMER:** Do NOT copy or submit this project as your official assignment. Doing so is an academic violation and may result in disciplinary action. This README is provided for learning and personal reference only.
+- ⚠️ This is for employment purposes, to be included in the projects section of my resume.
 # CSCI 2720 - Assignment 1
 
 **Name:** Brandon Lin
